@@ -11,6 +11,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DemoCustObj__c.ABNAMRO_DemoField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DemoCustObj__c.DemoCustField__c</field>
         <readable>true</readable>
     </fieldPermissions>

@@ -376,6 +376,7 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>DemoCustObj__c.ABNAMRO_DemoField__c</members>
         <members>DemoCustObj__c.DemoCustField__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
