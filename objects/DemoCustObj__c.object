@@ -52,6 +52,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>ABNAMRO_DemoField__c</fullName>
+        <externalId>false</externalId>
+        <label>ABNAMRO-DemoField</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DemoCustField__c</fullName>
         <externalId>false</externalId>
         <label>DemoCustField</label>
