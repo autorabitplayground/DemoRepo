@@ -376,6 +376,8 @@
         <members>DandBCompany.UsTaxId</members>
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
+        <members>DemoCustObj__c.ABNAMRO_DemoField__c</members>
+        <members>DemoCustObj__c.DemoCustField__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -420,6 +422,7 @@
         <members>Event.WhoId</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>Illumina_DemoObj__c.CF_IlluminaDemo__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -648,6 +651,7 @@
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
+        <members>DemoCustObj__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -656,6 +660,7 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>Illumina_DemoObj__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
@@ -747,11 +752,13 @@
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>DemoCustObj__c-DemoCustObj Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>Illumina_DemoObj__c-Illumina_DemoObj Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
@@ -859,6 +866,7 @@
         <members>Customer Community User</members>
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
+        <members>DemoProfile</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
