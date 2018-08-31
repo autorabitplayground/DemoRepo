@@ -11,6 +11,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>CokeDemoObj__c.CokeDemoField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DemoCustObj__c.ABNAMRO_DemoField__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -25,11 +30,23 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>CokeDemoObj__c-CokeDemoObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DemoCustObj__c-DemoCustObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Illumina_DemoObj__c-Illumina_DemoObj Layout</layout>
     </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>CokeDemoObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
