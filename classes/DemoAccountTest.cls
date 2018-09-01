@@ -6,6 +6,7 @@ public class DemoAccountTest {
         ba.checkBalance();
         ba.countCustomer();
         ba.deposit(1520);
+        //direct commit from GITHub UI
         
         //ba.getValues();
         ba.withDraw(100);
