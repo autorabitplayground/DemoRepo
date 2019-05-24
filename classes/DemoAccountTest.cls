@@ -7,7 +7,7 @@ public class DemoAccountTest {
         ba.countCustomer();
         ba.deposit(1520);
         
-        //ba.getValues();
+        //Demo
         ba.withDraw(100);
         Demo_Account ba1 = new Demo_Account('Testaccount',121315,1245);
         ba.setValues('Testaccount1',1213115,1345);
