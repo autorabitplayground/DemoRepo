@@ -1,7 +1,7 @@
 public class Demo_Account
 {
     //data member
-    // This is a demo on 18th Aug for Illumina Team
+    // This is a demo on 24th May
     
     String Accname;
     Integer Accno;
