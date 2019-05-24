@@ -61,6 +61,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AccentureDemo__c.CF_AccentureDemo__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -632,6 +633,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>AccentureDemo__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -733,6 +735,7 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>AccentureDemo__c-AccentureDemo Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
@@ -849,6 +852,7 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>AccDemo</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>

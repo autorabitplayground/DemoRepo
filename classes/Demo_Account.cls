@@ -1,7 +1,7 @@
 public class Demo_Account
 {
     //data member
-    // This is a demo on 24th May
+    // This is a demo on 24th May for Accenture
     
     String Accname;
     Integer Accno;
